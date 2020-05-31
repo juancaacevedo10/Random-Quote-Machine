@@ -1,0 +1,43 @@
+
+.Contenedor {
+  height: 100vh;
+  font-size: 1.3rem;
+}
+
+.footer{
+  text-align: center;
+  position: relative;
+  font-size: 12px;
+  top: 26vh;
+}
+
+#quote-box{
+  position: relative;
+  width: 500px;
+  background-color: white;
+  top: 25vh;
+  padding: 3%;
+  margin: auto;
+  border-radius: 7px;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.4)
+
+}
+
+
+#tumblr-quote{
+  margin-bottom: 5px;
+}
+
+#new-quote{
+  float: right;
+}
+
+ #tweet-quote{
+  margin-right: 2%; 
+  float: left;
+}
+
+
+
+
+
